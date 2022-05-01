@@ -21,6 +21,7 @@
 # PHP
 *.php linguist-detectable=true
 *.php linguist-documentation=false
+*.php linguist-language=PHP
 # Makefile (GNU Make)
 *.mk linguist-detectable=false
 *.mk linguist-documentation=false
@@ -77,6 +78,6 @@
 # End of linguist script
 # File info
 # File type: Gitattributes file (*.gitattributes)
-# File version: 3 (Saturday, 2022 April 9th at 4:41 pm PST)
-# Line count (including blank lines and compiler line): 83
+# File version: 4 (Saturday, 2022 April 30th at 7:43 pm PST)
+# Line count (including blank lines and compiler line): 84
 # End of script
